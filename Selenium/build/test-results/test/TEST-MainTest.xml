@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-01T20:40:58" hostname="DESKTOP-RD8RTP6" time="81.886">
+  <properties/>
+  <testcase name="CreateNewJiraScrumProjectTest" classname="MainTest" time="81.886"/>
+  <system-out><![CDATA[--------------click  to johnfrancis.atlassian
+done --------------navigate to johnfrancis.atlassian
+done -------------- waitin for LoadingCreateProjectButtong
+done --------------done waitin for LoadingCreateProjectButtong
+--------------here return jira software page
+]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\franc\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+Starting ChromeDriver 100.0.4896.60 (6a5d10861ce8de5fce22564658033b43cb7de047-refs/branch-heads/4896@{#875}) on port 59469
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1651437662.353][WARNING]: This version of ChromeDriver has not been tested with Chrome version 101.
+May 01, 2022 10:41:02 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+May 01, 2022 10:41:03 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 101, so returning the closest version found: 99
+May 01, 2022 10:41:03 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 101 of 99
+[1651437728.253][WARNING]: Timed out connecting to Chrome, retrying...
+[1651437736.363][WARNING]: Timed out connecting to Chrome, retrying...
+]]></system-err>
+</testsuite>
